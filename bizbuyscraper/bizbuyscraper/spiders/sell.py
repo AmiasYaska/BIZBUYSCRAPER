@@ -1,4 +1,5 @@
 import scrapy
+from ..items import BizbuyscraperItem
 import json
 
 class SellSpider(scrapy.Spider):
@@ -77,10 +78,17 @@ class SellSpider(scrapy.Spider):
         data = json.loads(response.body)
         values = data.get("value").get("bfsSearchResult").get("value")
 
-        for i in values:
-            yield {
-                "header": i.get("header"),
+        for value in values:
+            biz_buy_sell = BizbuyscraperItem()
 
-                "description": i.get("description"),
+            biz_buy_sell["header"] = value["header"]
+            biz_buy_sell["image_url"] = value["img"]
+            biz_buy_sell["description"] = value["description"]
+            biz_buy_sell["price"] = value["price"]
+            biz_buy_sell["business_location"] = value["location"]
+            biz_buy_sell["broker_company"] = value["brokerCompany"]
+            biz_buy_sell["broker_name"] = value["brokerContactFullName"]
+            biz_buy_sell["broker_phone_number"] = value["contactInfo"]["contactPhoneNumber"]["telephone"]
+            biz_buy_sell["broker_photo_url"] = value["brokerContactPhoto"]
 
-            }
+            yield biz_buy_sell

@@ -24,7 +24,7 @@ class BizbuyscraperItem(scrapy.Item):
         output_processor=TakeFirst()
     )
 
-    location = scrapy.Field(
+    business_location = scrapy.Field(
         output_processor=TakeFirst()
     )
 
