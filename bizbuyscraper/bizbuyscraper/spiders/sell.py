@@ -80,5 +80,7 @@ class SellSpider(scrapy.Spider):
         for i in values:
             yield {
                 "header": i.get("header"),
-                "description": i.get("")
+
+                "description": i.get("description"),
+
             }
