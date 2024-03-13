@@ -24,6 +24,74 @@ class SellSpider(scrapy.Spider):
             "languageTypeId": 10
         }
 
+        for page in range(2, 101):
+            other_pages_body = {
+                "bfsSearchCriteria": {
+                    "siteId": 20,
+                    "languageId": 10,
+                    "categories": "",
+                    "locations": [
+                        {
+                            "geoType": 20,
+                            "regionId": "5",
+                            "countryCode": "US",
+                            "countryId": "US",
+                            "stateCode": "CA",
+                            "legacyRegionId": 18,
+                            "legacyRegionCode": "CA",
+                            "metroAreaId": 0,
+                            "regionName": "California",
+                            "regionNameSeo": "california",
+                            "displayName": "California",
+                            "geoPinCriteria": ""
+                        }
+                    ],
+                    "excludeLocations": "",
+                    "askingPriceMax": 0,
+                    "askingPriceMin": 0,
+                    "pageNumber": page,
+                    "keyword": "",
+                    "cashFlowMin": 0,
+                    "cashFlowMax": 0,
+                    "grossIncomeMin": 0,
+                    "grossIncomeMax": 0,
+                    "daysListedAgo": 0,
+                    "establishedAfterYear": 0,
+                    "listingsWithNoAskingPrice": 0,
+                    "homeBasedListings": 0,
+                    "includeRealEstateForLease": 0,
+                    "listingsWithSellerFinancing": 0,
+                    "realEstateIncluded": 0,
+                    "showRelocatableListings": False,
+                    "relatedFranchises": 0,
+                    "listingTypeIds": [
+                        30,
+                        40,
+                        80
+                    ],
+                    "designationTypeIds": "",
+                    "sortList": "",
+                    "absenteeOwnerListings": 0
+                },
+                "industriesHierarchy": 10,
+                "industriesFlat": 10,
+                "bfsSearchResultsCounts": 0,
+                "cmsFilteredData": 0,
+                "rightRailBrokers": 0,
+                "statesRegions": 10,
+                "languageTypeId": 10
+            }
+
+            yield scrapy.Request(
+                url="https://api.bizbuysell.com/bff/v2/BbsBfsSearchResults",
+                method="POST",
+                body=json.dumps(other_pages_body),
+                headers={
+                    "Content-Type": "application/json"
+                },
+                callback=self.parse
+            )
+
         yield scrapy.Request(
             url="https://api.bizbuysell.com/bff/v2/BbsBfsSearchResults",
             method="POST",
@@ -33,6 +101,7 @@ class SellSpider(scrapy.Spider):
             },
             callback=self.parse
         )
+
 
     def parse(self, response):
         data = json.loads(response.body)
@@ -56,4 +125,3 @@ class SellSpider(scrapy.Spider):
                 biz_buy_sell["broker_photo_url"] = contact_info.get("contactPhoto", "")
 
             yield biz_buy_sell
-
