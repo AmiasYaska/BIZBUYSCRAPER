@@ -1,3 +1,502 @@
 [
-
+  {
+    "broker_company": null,
+    "broker_name": "Keith Montanari",
+    "broker_phone_number": "2093722828",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Ross R",
+    "broker_phone_number": "4088354084",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "The Magnolia Firm",
+    "broker_name": "Christine McDannell",
+    "broker_phone_number": "858-869-2909",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/42258/lg_prs_cmheadshotNEW2021.jpg"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Jon Rivera",
+    "broker_phone_number": "(323) 955-1750",
+    "broker_photo_url": null
+  },
+  {
+    "header": "Modern Flex with Upside in San Diego MSA",
+    "image_url": [
+      "https://images1.loopnet.com/i2/4QGasVyX8DKDj08chg-CjT7sQgi5k7oN5aaDKhPFnXg/106/image.jpg",
+      "https://images1.loopnet.com/i2/10QXpVCr8hOOPhWMhjfwFy_oVVUFbjNS8hSR9rZINr8/106/image.jpg",
+      "https://images1.loopnet.com/i2/qRZMsawp9S2KcQgHa4tBSiIjRarG5ClfiQpyzhu8NAU/106/image.jpg",
+      "https://images1.loopnet.com/i2/sJBUWOJ4eLEVG2QZXb4xfIckUWTlir_1odrQlikvePo/106/image.jpg",
+      "https://images1.loopnet.com/i2/rxeOzVkPWWlBv9xGMnuQ_Rrk7my15CnpWSMHzUsdklA/106/image.jpg",
+      "https://images1.loopnet.com/i2/7SWfzrdVdTc5FvNOqJ7kmao-4zxv7akV-juROg-21Yg/106/image.jpg",
+      "https://images1.loopnet.com/i2/e-5bXw4LmXY9JWlCbvUruZ-7cDraLHOtO0kYIBCacFE/106/image.jpg",
+      "https://images1.loopnet.com/i2/1Nx833yFM0GO3gGETT9YPdjFBfX8nO2jnLLTYeOvyvg/106/image.jpg",
+      "https://images1.loopnet.com/i2/_JBQ9tPZ6uzSZVaGYx1LR4x-E-zlJ7rJ5PcXPmQohwc/106/image.jpg",
+      "https://images1.loopnet.com/i2/siihB5XmWsXqCrRB-gQCg1iNOtvAzOTejXDxExA4YYI/106/image.jpg",
+      "https://images1.loopnet.com/i2/BeN_G9qbLfxd6_GROwD4fuqYgJadIalCBxbA4p8hFqA/106/image.jpg",
+      "https://images1.loopnet.com/i2/HTLF7iqSq2syyEuEInKioyxBqsxDmwmuuINVEAVclEM/106/image.jpg",
+      "https://images1.loopnet.com/i2/UNe9dHA9QcrMF4SQcUW_fzBmIEFwxl8ZgkPKL9L23k0/106/image.jpg",
+      "https://images1.loopnet.com/i2/i1nXlp_GmfG3HNkYRM7VF_Qlny740iEstW-6qNx00ww/106/image.jpg",
+      "https://images1.loopnet.com/i2/gW94fYswcgfVAUJ1_JCUywXRwnx7ndEX4dHsLRNpBkU/106/image.jpg",
+      "https://images1.loopnet.com/i2/8CXEqj1RamYs_pgv_l0Y2vHYX4tyJMs9cyVECZX9HL0/106/image.jpg",
+      "https://images1.loopnet.com/i2/uL997vXDtHSLen9jn1ln19oVilTaT6PsnhDeP4pU_O0/106/image.jpg",
+      "https://images1.loopnet.com/i2/IoUPxgI0sOQU1y5kyrZ5pgQIHYtOm6iCYpLUlQWEhM8/106/image.jpg",
+      "https://images1.loopnet.com/i2/YcnBVFupYDQa1j9cdJyImCqjMnTtEnxeuqQO5BShI2U/106/image.jpg",
+      "https://images1.loopnet.com/i2/OYfwNE5uN7f1O3bEp-us2wLJQ0qgdCasCIlG5lRIMYU/106/image.jpg",
+      "https://images1.loopnet.com/i2/PA2AGGVCxN8ducXtoeNVaLUdSr6M7GTvbSf1tbh5cDk/106/image.jpg",
+      "https://images1.loopnet.com/i2/6j1mDTkjq3q0dosco4LDJcVZF6msKzdyTGzogrVlDl4/106/image.jpg",
+      "https://images1.loopnet.com/i2/PK_lE-OZvwcCyoze67BxoQbM3WjufePGZAhjEhus6ds/106/image.jpg",
+      "https://images1.loopnet.com/i2/MkAjCFOCLi_gidQ-u0vqRdpuBYqR6ujO9VUEjUanoJg/106/image.jpg",
+      "https://images1.loopnet.com/i2/DHk-3G-NT3wgBKY4dH4pRP1YGoB7qNbjHT35B0q5Mq8/106/image.jpg",
+      "https://images1.loopnet.com/i2/CN73JPY8Mr9Khb5K6_FUllbitZowaCdCCTVK4I_Uh9A/106/image.jpg",
+      "https://images1.loopnet.com/i2/e8Zyv_AGW4xircFRyrOjr0BsyCl9n1_UT8gyRM309OE/106/image.jpg",
+      "https://images1.loopnet.com/i2/4idNJpnRdQJ4k5excO_hsqbx8NGwn1VNEdtznd4HxKQ/106/image.jpg"
+    ],
+    "description": "13,142 SF Light Manufacturing For Sale...",
+    "price": 800000.0,
+    "business_location": "Vista, CA"
+  },
+  {
+    "header": null,
+    "image_url": null,
+    "description": null,
+    "price": null,
+    "business_location": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Fahad Olsen",
+    "broker_phone_number": "9176536095",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "Century 21",
+    "broker_name": "Ernie Martinez",
+    "broker_phone_number": "(408) 420-5268",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/45967/lg_prs_GroupPicture.png"
+  },
+  {
+    "broker_company": "Vanguard Properties",
+    "broker_name": "Cheryl Maloney",
+    "broker_phone_number": "(415) 309-2722",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/31434/lg_prs_Cheryl_Malone.thumb.jpg"
+  },
+  {
+    "broker_company": "Century 21",
+    "broker_name": "Ernie Martinez",
+    "broker_phone_number": "(408) 420-5268",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/45967/lg_prs_GroupPicture.png"
+  },
+  {
+    "header": "Ideal Owner/User Industrial | Los Angeles MSA",
+    "image_url": [
+      "https://images1.loopnet.com/i2/1V8gX0KgWoJQN-CtUdSSxL2J3KbWDQsaUH0kbukHk_Q/106/image.jpg",
+      "https://images1.loopnet.com/i2/F6Oe-VkFYN3gC2w03Yoj9SqHwXwmXdRAcAusSMzHMwM/106/image.jpg",
+      "https://images1.loopnet.com/i2/2cGip3gX7qklvFSK5oEjpIGSnmFh22FGxC578GmDJqA/106/image.jpg",
+      "https://images1.loopnet.com/i2/qe8CNFku4DfeQ51WPaXKJieZkSdd49-utorf5elXCLw/106/image.jpg",
+      "https://images1.loopnet.com/i2/gE-q6f-y_Z5LDG-b5vzqpNHzXetvxN96ErLGRtW87_c/106/image.jpg",
+      "https://images1.loopnet.com/i2/w1jEYJVvz9jw2mLJIPcI_-mtKdaslT-f9TE85USgPII/106/image.jpg",
+      "https://images1.loopnet.com/i2/-7YdoIgg_AAQOiC_uBPnR7wiOEVHbHHb-tY84ia7Xjg/106/image.jpg",
+      "https://images1.loopnet.com/i2/ZwjJIWo3mx13zUPNYlznb6VOR8oBIgIBV4dn9NumI3g/106/image.jpg",
+      "https://images1.loopnet.com/i2/imi3_iHQwrayhz8Q2dpcgbgKw7v7Cp4_DCuH68shVKA/106/image.jpg",
+      "https://images1.loopnet.com/i2/c5urs3GeL4lvCN3i-Xymf5w7tF7kVwdzC2cNeI1FENs/106/image.jpg",
+      "https://images1.loopnet.com/i2/qw5OarL1-fslD7vO9RA0r47otiUfVct5lceRMzva5ZY/106/image.jpg",
+      "https://images1.loopnet.com/i2/LJUbM-dzkXIU_OPNd5vwEmtNVXXion1oa0iLptdVxwg/106/image.jpg",
+      "https://images1.loopnet.com/i2/nHCwaz8kY7MV0iSQudf11t7amokrypY03IFotP2T9qQ/106/image.jpg",
+      "https://images1.loopnet.com/i2/SJVrsvcqGjgunEAI-8Urtjks8icyS_W9KRGagdRai_A/106/image.jpg",
+      "https://images1.loopnet.com/i2/qCHAXExy7V-UONUuCkyqcTAxmRSGg6fS6NJ9gTxNbUA/106/image.jpg",
+      "https://images1.loopnet.com/i2/ZieidUjAQwD6NKB7B6tFcoPM51OYpArCng6xqy9bDA0/106/image.jpg"
+    ],
+    "description": "29,568 SF Manufacturing For Sale...",
+    "price": 1800000.0,
+    "business_location": "Lynwood, CA"
+  },
+  {
+    "header": "Commission Express",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/90/90/81facff6-0dcb-43ee-9abc-57c5ce35b2cf.gif"
+    ],
+    "description": "White-collar franchise.  No holidays or weekends!  Twenty-eight years of experience.  Commission Express has a working relationship with most Real Estate companies.  No license required.",
+    "price": 150000.0,
+    "business_location": "Available Nationwide"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Julianne DesJardins",
+    "broker_phone_number": "(805) 712-9375",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Joel Soper",
+    "broker_phone_number": "(213) 985-9226",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Nicholas Nguyen",
+    "broker_phone_number": "6572479453",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "GNN REAL ESTATE & MORTGAGE INC",
+    "broker_name": "Herman Bhatti",
+    "broker_phone_number": "2094844641",
+    "broker_photo_url": null
+  },
+  {
+    "header": "Premier Boutique Hotel | The Cole Hotel",
+    "image_url": [
+      "https://images1.loopnet.com/i2/uYFoZZeIqBqfSShDu2oATERqclFjJ1O4_9U7gbXj3zE/106/image.jpg",
+      "https://images1.loopnet.com/i2/Nmfgcj_6qp9YS-vEtIFtNODbhiajeMZv3Bfk6Jrherw/106/image.jpg",
+      "https://images1.loopnet.com/i2/Ckt0SKyzWu4_zblYrB0rUytjbZsN44aqpwLO_-w8GIA/106/image.jpg",
+      "https://images1.loopnet.com/i2/QoS1t9zCKUiqYXGfn2nVXSDhGqnNNlCM3sFde-Ic5TY/106/image.jpg",
+      "https://images1.loopnet.com/i2/RUgjwP3RdzZdW5Ri_d7deaw_CiKPoxhk2WU2aET3iHE/106/image.jpg",
+      "https://images1.loopnet.com/i2/iFH9qEAiMrTxeyDQp42Rf7lggf99u5Zt9L15nvWLFzg/106/image.jpg",
+      "https://images1.loopnet.com/i2/gGYreHGk7DYE7zTgxMW9SHShjrkntS1A4CfNs6y2EpM/106/image.jpg",
+      "https://images1.loopnet.com/i2/Bt8RYO1pcpriD2cXUxl0JjLgJ4iXTBdUPC7NPUQTFAQ/106/image.jpg",
+      "https://images1.loopnet.com/i2/_i-BH31fEzlk1dC2wP2L52ZfP6cul_YRwRx9mSdnxK4/106/image.jpg",
+      "https://images1.loopnet.com/i2/8u7aheFFVOhXV8E20BWCJi3Mz1IV0sFcfoFKOJf9G_c/106/image.jpg",
+      "https://images1.loopnet.com/i2/CzWSiqbuWltH0o3s7AFB3w5hUQsgDFEZYu1HzydlQPA/106/image.jpg",
+      "https://images1.loopnet.com/i2/9S8qT6A-w80bkUJBR5Al_wbhDei_znYZ_EigmvseSWk/106/image.jpg",
+      "https://images1.loopnet.com/i2/sJmK3bvWG3Firpxo5yqvhj47cPzU720TXNykqbrYcgg/106/image.jpg",
+      "https://images1.loopnet.com/i2/xhk6rX9MtaS7rw5s5uDda0jYgRvWI7LMPeAU2QgSkuE/106/image.jpg",
+      "https://images1.loopnet.com/i2/_pEMIV74JK0Cul2qYvTPGJAtBxAp1gci80cHD4RqvpU/106/image.jpg",
+      "https://images1.loopnet.com/i2/Cc8m1UOMNuEPCb2gynvA62e83au0lq5Ie5EmNRY3k5A/106/image.jpg",
+      "https://images1.loopnet.com/i2/h6yC7PtOR0n82Ox0piq6hEB8ytDnJnM1NniRlvxd36M/106/image.jpg",
+      "https://images1.loopnet.com/i2/ZkSTxtXyWjH5te5JNyYH9v30KXrillnOjAUvKPkYons/106/image.jpg",
+      "https://images1.loopnet.com/i2/j3rOP6Ksi9MaZ-OrW9qtk9voBC-ngZP3vwf6RxYWBJk/106/image.jpg",
+      "https://images1.loopnet.com/i2/S5Grh5G8fooscB9gwSF0L9ukZkpXJl6c48juqq0pDg8/106/image.jpg",
+      "https://images1.loopnet.com/i2/a_QnjiQ2de9-0MvvWu1zI90-OHj7HcbfQYYIH0Snp4o/106/image.jpg",
+      "https://images1.loopnet.com/i2/h1pkxd6wjTaZcIA0-IN7hr7oguT98n_c61N7_7OtOes/106/image.jpg",
+      "https://images1.loopnet.com/i2/-iOYMGzbQ29_7whk-o3FKEI18Au4SvysNfWLyiWaOzM/106/image.jpg",
+      "https://images1.loopnet.com/i2/FBD6vSHk4Cb8m1HGIOPKUWn-qzxNQ9CzKgRj97sQ5zM/106/image.jpg",
+      "https://images1.loopnet.com/i2/aLlpPb6XS9ntngcqJuu4R29BFaJfRRagnIHsIiotuTM/106/image.jpg",
+      "https://images1.loopnet.com/i2/a31c83ZqnCqJf22_wVW0jWUpMZg_tCPpOGg9scN-E1s/106/image.jpg",
+      "https://images1.loopnet.com/i2/WJSPuVYPu_xviioFunP34lOwK-UG4xUiR6kf3CViIi8/106/image.jpg",
+      "https://images1.loopnet.com/i2/4xyP6slCPMKwGXtItxG4MXsocnaFY14MB7vj6eLWo50/106/image.jpg",
+      "https://images1.loopnet.com/i2/dlJEiJrrMvNsRbeZJ09ghvXP2uvsdXGibed91JBbESM/106/image.jpg",
+      "https://images1.loopnet.com/i2/SgyyIBSoogBEwJVXeH0F7q4Muqu8LqdLPNoEaWBmOHI/106/image.jpg",
+      "https://images1.loopnet.com/i2/F56iadeUAkgJEoJ0szKbPESoos1DN-AWtk2wVuXySbQ/106/image.jpg",
+      "https://images1.loopnet.com/i2/B4tr9WHiJcOecaalSjvXDIMntYoUHm7tWpYDdU5pZEw/106/image.jpg",
+      "https://images1.loopnet.com/i2/ZK8fG6Vuy_E0VJORxQrTgmjS7O1uP4-BHrnSxFSZr2o/106/image.jpg",
+      "https://images1.loopnet.com/i2/TYG3QBjbeqQkxsorGoa_6MGy-zqOwZF7usnR613axuM/106/image.jpg",
+      "https://images1.loopnet.com/i2/46uKVeTdPJjAiQXIbQAd0EGUGtCy-fpI28cVRS-msdw/106/image.jpg",
+      "https://images1.loopnet.com/i2/p9oCFmramgWMXtO4l4OeQ9zEnKRfY1PPbbH9VZH7_FE/106/image.jpg",
+      "https://images1.loopnet.com/i2/yV-a6eveeWpzUO3RI2QaG2-K8UzTr0taywXrGEHwEvc/106/image.jpg",
+      "https://images1.loopnet.com/i2/oKKAKwAqxfWioNXD6Lx5Wk-76C6DMHS9zBq1q0dYO-c/106/image.jpg",
+      "https://images1.loopnet.com/i2/dWsyDbXnCK1TUYiMzXf_sU8qtMUC0VwJ8zlnkxeO_S8/106/image.jpg",
+      "https://images1.loopnet.com/i2/c3Ky0TYv5wXM1aOwwKrRhVNTQhq8bC9tsOORSZRubHg/106/image.jpg",
+      "https://images1.loopnet.com/i2/MrV-GFFVpA014QJlzKikScJvL7_mt9cRaf75AWazGqA/106/image.jpg",
+      "https://images1.loopnet.com/i2/3cJJV6mDd4gVgcvhvrcPdaCTlzl64-ClPmMoGNWo0-k/106/image.jpg",
+      "https://images1.loopnet.com/i2/yI51epbV1a2yEztv1wX-tDn3fwIGBgrEQn_w3uLs-HA/106/image.jpg",
+      "https://images1.loopnet.com/i2/Q0VxsrKjNAgOGpT1QZY_3tK-QQwyPgBaJNozAlW7d7I/106/image.jpg",
+      "https://images1.loopnet.com/i2/bcmuq4nBICTv24yS-Lr8HRhy9e74idHbqcSdimr7VZ0/106/image.jpg",
+      "https://images1.loopnet.com/i2/cVupFCOMyvtGiIMiCc9eZg-3DosnrQCoYOEnwl2cZzw/106/image.jpg",
+      "https://images1.loopnet.com/i2/b4opHBuBaa1nmm71D4S8sqbrNZ3dfRoE1Ko0oqqcZu8/106/image.jpg",
+      "https://images1.loopnet.com/i2/mE3AFs1NhsRHLSxlqr6QLL32Xw8DL4QG0x9FNTxYs6Y/106/image.jpg",
+      "https://images1.loopnet.com/i2/d1wtNLlvMWpbGvGWSPJEtbTggyF26CKzP5EqIe5U-3A/106/image.jpg",
+      "https://images1.loopnet.com/i2/JxfPVbMoHtocjnfNKSUxWhr5i18z8cz5Ejao9gwVRDU/106/image.jpg"
+    ],
+    "description": "16,629 SF Hotel For Sale...",
+    "price": 2000000.0,
+    "business_location": "Palm Springs, CA"
+  },
+  {
+    "header": null,
+    "image_url": null,
+    "description": "We strive to help our clients realize their unique definition of success. To achieve this, our team provides a comprehensive service offering aimed at supporting lower middle market business owners at nearly all stages of their company’s lifecycle. Our team has supported over 2,000 clients since 2002 and completed more than 1,150 transactions. This experience, coupled with our history as founders, owners and operators ourselves provides our team with an unparalleled practical knowledge base and real world perspective that is aligned with our clients.\r\n\r\nWhen we provide mergers & acquisitions advisory services, explore capital sourcing and deployment options, evaluate valuation drivers or structure a realistic exit plan, we do so knowing that our clients rely on us to help manage what may be their largest asset and the culmination of years of extraordinary efforts. If our client has an interim leadership need, we approach the assignment as if it were our business, reputation, investment and our future retirement at stake – because ultimately it is.\r\n\r\nThe value we provide and the quality of our efforts will make or break a successful engagement. In doing so we are not only able to capitalize on each of our management experiences, but we are also able to draw from best practices learned from working with thousands of clients across all industry sectors. As a result our perspective is broad and our resource base is vast. Our full service approach supports the notion that your business is more than just a transaction to you and us, it’s our business too. Your success translates into our success, just as we shoulder the burden of any failure. As a result we consider ourselves to not only be our client’s solutions advisor, but also their partner.",
+    "price": null,
+    "business_location": "Los Angeles County, CA"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Joseph Giordano",
+    "broker_phone_number": "2085590246",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "TNW Business Brokers",
+    "broker_name": "Mani Singh",
+    "broker_phone_number": "951.296.7646",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/6953/lg_prs__DSC3763web.jpg"
+  },
+  {
+    "broker_company": "TNW Business Brokers",
+    "broker_name": "Mani Singh",
+    "broker_phone_number": "951.296.7646",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/6953/lg_prs__DSC3763web.jpg"
+  },
+  {
+    "broker_company": "Franchise Flippers",
+    "broker_name": "Franchise Flippers",
+    "broker_phone_number": "(970) 515-3634",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/46587/lg_prs_logoonblue.jpg"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Mike Varma",
+    "broker_phone_number": "562.818.7174",
+    "broker_photo_url": null
+  },
+  {
+    "header": "Closet Factory",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/80/80/ea0c3b35-c226-4e8d-ad74-e7b971d40bc2.jpg"
+    ],
+    "description": "Closet Factory is a best buy in home organization segment. Simply put, custom closets are a huge business opportunity. Custom Organization Systems for every room in your home.",
+    "price": 200000.0,
+    "business_location": "Available Nationwide"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Rich Tower",
+    "broker_phone_number": "7757224966",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Thuy Nguyen",
+    "broker_phone_number": "(510) 717-5558",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Michael Kelly",
+    "broker_phone_number": "0868315016",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Tricia LaBelle",
+    "broker_phone_number": "8186427391",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Robert Blake",
+    "broker_phone_number": "5623554433",
+    "broker_photo_url": null
+  },
+  {
+    "header": null,
+    "image_url": null,
+    "description": null,
+    "price": null,
+    "business_location": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Debbie Churchill",
+    "broker_phone_number": "(619) 838-6087",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "GBB Advisors",
+    "broker_name": "Bradley Bickers",
+    "broker_phone_number": "(559) 213-2424",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/33547/lg_prs_BickersPicHeadShot.jpg"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Bimal Siyan",
+    "broker_phone_number": "(510) 755-3709",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Allen Davidson",
+    "broker_phone_number": "",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "Beacon",
+    "broker_name": "Jon Nesbitt",
+    "broker_phone_number": "(737) 292-4055",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/43336/lg_prs_ScreenShot2022-10-26at10.49.18AM.png"
+  },
+  {
+    "header": "Garage Living",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/2575/2690/e465baed-2796-4be9-a1bd-a6c8459a1b72.png"
+    ],
+    "description": "Garage Living has established itself as the premier full service, turn-key garage improvement company. We are currently building a franchise network and are looking for a select group of individuals who are passionate about design, construction and customer service. Our system offers our franchisees an opportunity to be their own boss while providing the support to build a successful business.",
+    "price": 200000.0,
+    "business_location": "Available in California"
+  },
+  {
+    "broker_company": "Syed Brokerage & Capital Co.",
+    "broker_name": "Mehmood Syed",
+    "broker_phone_number": "8052533039",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/16838/lg_prs_Mypic.jpg"
+  },
+  {
+    "broker_company": "Acquisition Services Group",
+    "broker_name": "Arshad Mohammad",
+    "broker_phone_number": "951-756-3825",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Danny Star",
+    "broker_phone_number": "(818) 235-9440",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Matthew Marshall",
+    "broker_phone_number": "9495335311",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Galia Snipeliski",
+    "broker_phone_number": "8582849667",
+    "broker_photo_url": null
+  },
+  {
+    "header": "Concrete Technology Incorporated",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/97/97/8fd36f9d-84f8-4255-9148-12de7a9b9935.gif"
+    ],
+    "description": "CTi manufactures an easy to use spray coating for concrete. It is one of the most beautiful, versatile, and fastest growing products on the market today.",
+    "price": 15000.0,
+    "business_location": "Available Nationwide"
+  },
+  {
+    "broker_company": "Business Team",
+    "broker_name": "Tony Moran",
+    "broker_phone_number": "(925) 890-3000",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/2275/lg_prs_Headshot1Moran.jpg"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Emily Thomas",
+    "broker_phone_number": "",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Lucy",
+    "broker_phone_number": "(818) 497-5221",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "Quiet Light Brokerage, Inc.",
+    "broker_name": "Brad Wayland",
+    "broker_phone_number": "2709961588",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Steven Barbarich",
+    "broker_phone_number": "4153147474",
+    "broker_photo_url": null
+  },
+  {
+    "header": null,
+    "image_url": null,
+    "description": "IAG M&A Advisors is a nationwide business intermediary consulting firm that facilitates the buying & selling of businesses with the goals of our clients at heart. With over 100 years of combined management experience, our team gets to know each of our clients personally to understand their values & businesses. Our experience & leadership in the M&A industry has helped the owners of privately-held companies “cash in” on all their hard work and get the best payoff possible.\r\n\r\nPlease refer any inquiries and send any NDAs to buyers@iag-service.com.",
+    "price": null,
+    "business_location": "Riverside County, CA"
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Doug Machidda",
+    "broker_phone_number": "(646) 566-1344",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Kam Saran",
+    "broker_phone_number": "3109448429",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "LINK Business Fort Worth",
+    "broker_name": "Angie Smith",
+    "broker_phone_number": "334-403-4841",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "United Franchise Group",
+    "broker_name": "Reed Miller",
+    "broker_phone_number": "5616571749",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "Sharp Business Brokers",
+    "broker_name": "Steve Sharp",
+    "broker_phone_number": "(619) 454-1786",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/46529/lg_prs_2022Heashot1Acropped2.jpg"
+  },
+  {
+    "header": "Sugaring NYC",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/2157/2255/de5c1901-19d0-4a0f-9350-3f8e9d4d2ed6.png"
+    ],
+    "description": "You may be new to the beauty industry, but we’re not. After showing amazing financial results in corporate-owned locations we took the company to the next level – offering our future business partners to open franchise locations in virtually any city in United States. Since the beginning of 2019 we had granted 11 Franchises in many states – Florida, Texas, Alabama, Arkansas, Washington. Many States and Cities are still available – DO NOT LOSE YOUR CHANCE to own America’s #1 Fastest Growing Beauty Franchise.",
+    "price": 100000.0,
+    "business_location": "Available Nationwide"
+  },
+  {
+    "broker_company": "Realest Group",
+    "broker_name": "Kenny Liu",
+    "broker_phone_number": "6268889260",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/42740/lg_prs_04.jpeg"
+  },
+  {
+    "broker_company": "Carmel Business Sales",
+    "broker_name": "Carmel Business Sales",
+    "broker_phone_number": "831-625-5581",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "David Rashidov",
+    "broker_phone_number": "(323) 606-3014",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": null,
+    "broker_name": "Shady Zekry",
+    "broker_phone_number": "7144143581",
+    "broker_photo_url": null
+  },
+  {
+    "broker_company": "THE DEAL FIRM",
+    "broker_name": "Rachel Rocconi",
+    "broker_phone_number": "424-259-3135",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/45458/lg_prs_Headshot..jpg"
+  },
+  {
+    "header": "Color World Painting",
+    "image_url": [
+      "https://images.bizbuysell.com/fnw/images/87/87/832c579b-43d7-49f1-b545-c4794fcf0c26.png"
+    ],
+    "description": "Become your own boss in the $110+ BN home improvement industry with our low-investment, multiple recurring revenue stream franchise. Achieve the freedom and flexibility to enjoy your life and family today!",
+    "price": 40000.0,
+    "business_location": "Available in California"
+  },
+  {
+    "broker_company": "Beacon",
+    "broker_name": "Jon Nesbitt",
+    "broker_phone_number": "(737) 292-4055",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/43336/lg_prs_ScreenShot2022-10-26at10.49.18AM.png"
+  },
+  {
+    "broker_company": "Beacon",
+    "broker_name": "Jon Nesbitt",
+    "broker_phone_number": "(737) 292-4055",
+    "broker_photo_url": "https://images.bizbuysell.com/shared/brokerdirectory/images/43336/lg_prs_ScreenShot2022-10-26at10.49.18AM.png"
+  },
+  {
+    "broker_company": "Carmel Business Sales",
+    "broker_name": "Carmel Business Sales",
+    "broker_phone_number": "831-625-5581",
+    "broker_photo_url": null
+  }
 ]

@@ -37,19 +37,24 @@ class SellSpider(scrapy.Spider):
     def parse(self, response):
         data = json.loads(response.body)
         values = data.get("value").get("bfsSearchResult").get("value")
-        print(values)
 
-        # for value in values:
-        #     biz_buy_sell = BizbuyscraperItem()
-        #
-        #     biz_buy_sell["header"] = value["header"]
-        #     biz_buy_sell["image_url"] = value["img"]
-        #     biz_buy_sell["description"] = value["description"]
-        #     biz_buy_sell["price"] = value["price"]
-        #     biz_buy_sell["business_location"] = value["location"]
-        #     biz_buy_sell["broker_company"] = value["contactInfo"]["brokerCompany"]
-        #     biz_buy_sell["broker_name"] = value["contactInfo"]["contactFullName"]
-        #     biz_buy_sell["broker_phone_number"] = value["contactInfo"]["contactPhoneNumber"]["telephone"]
-        #     biz_buy_sell["broker_photo_url"] = value["contactInfo"]["contactPhoto"]
-        #
-        #     yield biz_buy_sell
+        for value in values:
+            biz_buy_sell = BizbuyscraperItem()
+
+            try:
+                contact_info = value.get("contactInfo", {})
+                biz_buy_sell["broker_company"] = contact_info.get("brokerCompany", "")
+                biz_buy_sell["broker_name"] = contact_info.get("contactFullName", "")
+                biz_buy_sell["broker_phone_number"] = contact_info.get("contactPhoneNumber", {}).get("telephone", "")
+                biz_buy_sell["broker_photo_url"] = contact_info.get("contactPhoto", "")
+
+            except:
+                biz_buy_sell["header"] = value["header"]
+                biz_buy_sell["image_url"] = value["img"]
+                biz_buy_sell["description"] = value["description"]
+                biz_buy_sell["price"] = value["price"]
+                biz_buy_sell["business_location"] = value["location"]
+
+
+            yield biz_buy_sell
+
