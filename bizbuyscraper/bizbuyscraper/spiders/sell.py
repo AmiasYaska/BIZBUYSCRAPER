@@ -41,20 +41,19 @@ class SellSpider(scrapy.Spider):
         for value in values:
             biz_buy_sell = BizbuyscraperItem()
 
-            try:
-                contact_info = value.get("contactInfo", {})
+            biz_buy_sell["header"] = value["header"]
+            biz_buy_sell["image_url"] = value["img"]
+            biz_buy_sell["description"] = value["description"]
+            biz_buy_sell["price"] = value["price"]
+            biz_buy_sell["business_location"] = value["location"]
+
+            contact_info = value.get("contactInfo", {})
+
+            if contact_info:
                 biz_buy_sell["broker_company"] = contact_info.get("brokerCompany", "")
                 biz_buy_sell["broker_name"] = contact_info.get("contactFullName", "")
                 biz_buy_sell["broker_phone_number"] = contact_info.get("contactPhoneNumber", {}).get("telephone", "")
                 biz_buy_sell["broker_photo_url"] = contact_info.get("contactPhoto", "")
-
-            except:
-                biz_buy_sell["header"] = value["header"]
-                biz_buy_sell["image_url"] = value["img"]
-                biz_buy_sell["description"] = value["description"]
-                biz_buy_sell["price"] = value["price"]
-                biz_buy_sell["business_location"] = value["location"]
-
 
             yield biz_buy_sell
 
